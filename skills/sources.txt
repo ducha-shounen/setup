@@ -1,0 +1,28 @@
+# Nguon cua tung skill. update.bat doc file nay.
+# Dinh dang:  <ten-skill>  <repo-git>  <duong-dan-trong-repo>
+# Dong bat dau bang # la ghi chu. Them skill moi = them 1 dong.
+
+# --- mattpocock/skills ---
+grilling                       https://github.com/mattpocock/skills  skills/productivity/grilling
+grill-me                       https://github.com/mattpocock/skills  skills/productivity/grill-me
+grill-with-docs                https://github.com/mattpocock/skills  skills/engineering/grill-with-docs
+codebase-design                https://github.com/mattpocock/skills  skills/engineering/codebase-design
+improve-codebase-architecture  https://github.com/mattpocock/skills  skills/engineering/improve-codebase-architecture
+implement                      https://github.com/mattpocock/skills  skills/engineering/implement
+implement-spec                 https://github.com/mattpocock/skills  skills/engineering/implement-spec
+to-tickets                     https://github.com/mattpocock/skills  skills/engineering/to-tickets
+setup-matt-pocock-skills       https://github.com/mattpocock/skills  skills/engineering/setup-matt-pocock-skills
+domain-modeling                https://github.com/mattpocock/skills  skills/engineering/domain-modeling
+to-spec                        https://github.com/mattpocock/skills  skills/engineering/to-spec
+triage                         https://github.com/mattpocock/skills  skills/engineering/triage
+wayfinder                      https://github.com/mattpocock/skills  skills/engineering/wayfinder
+
+# --- Vercel ---
+find-skills                    https://github.com/vercel-labs/skills         skills/find-skills
+agent-browser                  https://github.com/vercel-labs/agent-browser  skills/agent-browser
+
+# --- Cloudflare ---
+security-audit                 https://github.com/cloudflare/security-audit-skill  skills/security-audit
+
+# --- Together AI (nutlope) ---
+hallmark                       https://github.com/nutlope/hallmark  skills/hallmark
